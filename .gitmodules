@@ -1,0 +1,12 @@
+[submodule "llguidance"]
+	path = llguidance
+	url = https://github.com/mmoskal/llguidance
+[submodule "derivre"]
+	path = derivre
+	url = https://github.com/microsoft/derivre
+[submodule "toktrie"]
+	path = toktrie
+	url = https://github.com/microsoft/toktrie
+[submodule "guidance"]
+	path = guidance
+	url = https://github.com/hudson-ai/guidance
