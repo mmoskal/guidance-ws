@@ -1,12 +1,16 @@
 [submodule "llguidance"]
 	path = llguidance
 	url = https://github.com/mmoskal/llguidance
+	branch = main
 [submodule "derivre"]
 	path = derivre
 	url = https://github.com/microsoft/derivre
+	branch = main
 [submodule "toktrie"]
 	path = toktrie
 	url = https://github.com/microsoft/toktrie
+	branch = main
 [submodule "guidance"]
 	path = guidance
 	url = https://github.com/hudson-ai/guidance
+	branch = lazy_grammars
