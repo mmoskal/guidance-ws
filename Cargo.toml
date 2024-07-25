@@ -2,7 +2,7 @@
 members = [
     "toktrie/core",
     "toktrie/hf_tokenizers",
-    "llguidance/python",
+    "llguidance/rust",
     "llguidance/parser",
     "derivre",
 ]
