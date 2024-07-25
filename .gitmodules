@@ -1,6 +1,6 @@
 [submodule "llguidance"]
 	path = llguidance
-	url = https://github.com/mmoskal/llguidance
+	url = https://github.com/microsoft/llguidance
 	branch = main
 [submodule "derivre"]
 	path = derivre
