@@ -12,5 +12,5 @@
 	branch = main
 [submodule "guidance"]
 	path = guidance
-	url = https://github.com/hudson-ai/guidance
-	branch = lazy_grammars
+	url = https://github.com/guidance-ai/guidance
+	branch = main
