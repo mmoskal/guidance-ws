@@ -4,6 +4,7 @@ members = [
     "toktrie/hf_tokenizers",
     "llguidance/rust",
     "llguidance/parser",
+    "llguidance/sample_parser",
     "derivre",
 ]
 resolver = "2"
@@ -13,6 +14,7 @@ debug = 1
 
 [patch.'https://github.com/microsoft/toktrie']
 toktrie = { path = "toktrie/core" }
+toktrie_hf_tokenizers = { path = "toktrie/hf_tokenizers" }
 
 [patch.'https://github.com/microsoft/derivre']
 derivre = { path = "derivre" }
