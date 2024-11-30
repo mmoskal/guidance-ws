@@ -6,10 +6,6 @@
 	path = derivre
 	url = https://github.com/microsoft/derivre
 	branch = main
-[submodule "toktrie"]
-	path = toktrie
-	url = https://github.com/microsoft/toktrie
-	branch = main
 [submodule "guidance"]
 	path = guidance
 	url = https://github.com/guidance-ai/guidance
