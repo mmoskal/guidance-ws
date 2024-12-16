@@ -10,6 +10,3 @@
 	path = guidance
 	url = https://github.com/guidance-ai/guidance
 	branch = main
-[submodule "json_stats"]
-	path = json_stats
-	url = https://github.com/mmoskal/json_stats
