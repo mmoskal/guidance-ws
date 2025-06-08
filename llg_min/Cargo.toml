@@ -1,0 +1,12 @@
+[package]
+name = "llg_min"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# llguidance = { path = "../llguidance/parser", default-features = false, features = ["lark"] }
+llguidance = { path = "../llguidance/parser" }
+serde_json = "1.0.138"
+
+[profile.release]
+debug = true

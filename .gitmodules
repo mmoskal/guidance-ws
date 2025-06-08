@@ -10,3 +10,6 @@
 	path = guidance
 	url = https://github.com/guidance-ai/guidance
 	branch = main
+[submodule "llguidance_bg"]
+	path = llguidance_bg
+	url = https://github.com/guidance-ai/llguidance_bg
